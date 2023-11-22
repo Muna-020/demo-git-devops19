@@ -1,0 +1,4 @@
+file.yaml
+colaboration/
+*.env-*
+*.env
